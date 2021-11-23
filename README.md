@@ -33,3 +33,18 @@
             
 #### How to identify Leaf Smut ?
             Many spots can be found on the same leaf, but the spots remain distinct from each other. Typical symptoms of     leaf smut breaks open when wet and releases the black spores. Heavily infected leaves turn yellow, and the leaf tips die and turn gray
+![download](https://user-images.githubusercontent.com/64718250/143025177-2e276bcf-de2f-4c85-bd02-7deda913c67b.png)
+
+![download](https://user-images.githubusercontent.com/64718250/143025059-e490cfeb-25f7-4d38-b0d7-1061aa1c6137.png)
+
+
+
+
+
+# ACCURACY PLOT
+![accuracyplots](https://user-images.githubusercontent.com/64718250/143024818-b478010d-57a0-4d1a-85f2-980f19f60d87.png)
+
+
+# LOSS PLOT
+
+![lossplots](https://user-images.githubusercontent.com/64718250/143024937-1fb47039-b42c-4563-b553-59790be5767a.png)
